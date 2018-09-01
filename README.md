@@ -36,4 +36,4 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 - Conteúdo: introdução, tipos de dados no R: vetores, matrizes, fatores, data frames, listas.
 
 # Em construção :)
-- Essa lista está em construção, se você conhece algum material interessante sinta-se a vontade para contribuir (mas lembre de colocar informações como: esse conteúdo é gratuito ou pago? em que lingua está disponível? etc).
+- Essa lista está em construção, se você conhece algum material interessante sinta-se a vontade para contribuir (mas lembre de colocar informações como: esse conteúdo é gratuito ou pago? em que idioma está disponível? etc).
