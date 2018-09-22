@@ -18,13 +18,6 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 - Ano: 2018
 - Link: https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r
 
-# Livro: Introdução ao R - Aplicações Florestais
-- Livro disponibilizado gratuitamente em PDF;
-- Em português; 
-- Referência: Deivison Venicio Souza, Thiago Wendling Gonçalves de Oliveira, Luani Rosa de Oliveira Piva, Joielan Xipaia dos Santos, Carlos Roberto Sanquetta, Ana Paula Dalla Corte
-- Ano: 2018
-- Link: https://drive.google.com/file/d/1Gi1WmEeRWduYLZ8GNevH_G78fl8Trihw/view?usp=sharing
-
 # Materiais em Inglês
 
 # Curso: DATACAMP - Introdução ao R/Introduction to R
