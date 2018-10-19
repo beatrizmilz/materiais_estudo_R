@@ -48,15 +48,15 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 
 ## Cheatsheets do R
 - Ambiente de desenvolvimento RSTUDIO: [Português](https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/rstudio-IDE-cheatsheet-portuguese.pdf), [Inglês](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
-- [Importar dados/Data import - Inglês](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf)
-- [Visualização de dados - Português](https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/ggplot2-cheatsheet-portuguese.pdf)
-- [Manipular dados - Português] (https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/data-wrangling-cheatsheet-portuguese.pdf)
-- [Data transformation - Inglês](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
-- [Trabalhar com textos/ String manipulation - Inglês](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf)
-- [Comunicar seus resultados - RMarkdown - Inglês](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
-- [Criar gráficos com Ggplot2 - Inglês](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
-- [LaTeX- Inglês](https://wch.github.io/latexsheet/)
-- [Expressões regulares- Inglês](https://github.com/rstudio/cheatsheets/raw/master/regex.pdf)
+- [Importar dados/Data import](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf) - Inglês
+- [Visualização de dados](https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/ggplot2-cheatsheet-portuguese.pdf) - Português
+- [Manipular dados](https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/data-wrangling-cheatsheet-portuguese.pdf) - Português
+- [Data transformation](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf) - Inglês
+- [Trabalhar com textos/ String manipulation](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf) - Inglês
+- [Comunicar seus resultados - RMarkdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf) - Inglês
+- [Criar gráficos com Ggplot2](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf) - Inglês
+- [LaTeX](https://wch.github.io/latexsheet/) - Inglês
+- [Expressões regulares](https://github.com/rstudio/cheatsheets/raw/master/regex.pdf) - Inglês
 - Pode conferir também outras cheatsheets em inglês no site: https://www.rstudio.com/resources/cheatsheets/ 
 
 ### Outros livros sobre R:
