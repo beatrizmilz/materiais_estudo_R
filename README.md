@@ -11,11 +11,18 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 
 *A Curso-R também oferece cursos presenciais: http://curso-r.com/
 
-### Introdução à Programação e Ferramentas Computacionais para as Ciências Sociais
+### Disciplina Introdução à Programação e Ferramentas Computacionais para as Ciências Sociais
 - Esse material é disponibilizado no GITHUB pelo Leonardo Barone. 
 - Material gratuito;
 - Em português;
 - Link: https://github.com/leobarone/FLS6397_2018
+
+### Disciplina CE083 - Estatística Computacional I
+- Esse material é disponibilizado no GITHUB pelo  Fernando de Pol Mayer. 
+- Material gratuito;
+- Em português;
+- Link: http://leg.ufpr.br/~fernandomayer/aulas/ce083/
+
 
 ### Livro: Ciência de Dados com R – Introdução
 - Livro disponibilizado gratuitamente em PDF;
