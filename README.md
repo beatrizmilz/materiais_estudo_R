@@ -1,7 +1,6 @@
 # Materiais de estudo de R 
-Estou aprendendo R e estou reunindo materiais de estudo nessa página. 
-A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratuitos e em português. 
 
+A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratuitos e em português. 
 
 ## Materiais em Português
 
