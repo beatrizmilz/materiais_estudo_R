@@ -22,6 +22,18 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 - Em português;
 - Link: http://leg.ufpr.br/~fernandomayer/aulas/ce083/
 
+### Materiais disponibilizados por professores do Departamento de Estatística da UFPR
+- Material gratuito;
+- Em português;
+- Mineraçao de texto: http://leg.ufpr.br/~walmes/ensino/mintex/
+- Machine Learning: http://leg.ufpr.br/~walmes/ensino/ML/
+- Pesquisa reproduzivel: http://leg.ufpr.br/~walmes/ensino/pesq-reprod/
+- Estatistica computacional/simulaçao: http://leg.ufpr.br/~walmes/ensino/EC2/
+- Analise de sobrevivencia: https://docs.ufpr.br/~giolo/Livro/
+- Regressão: https://docs.ufpr.br/~giolo/CE071/Codigos/Comandos_CE071.html
+- Dados categoricos: https://docs.ufpr.br/~giolo/LivroADC/
+- Modelos lineares generalizados: https://docs.ufpr.br/~taconeli/CE22518/CE22518.html e https://docs.ufpr.br/~taconeli/CE06218/CE06218.html
+
 
 ### Livro: Ciência de Dados com R – Introdução
 - Livro disponibilizado gratuitamente em PDF;
