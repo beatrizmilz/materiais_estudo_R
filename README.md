@@ -64,6 +64,12 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 - Link: https://www.datacamp.com/courses/free-introduction-to-r 
 - Conteúdo: introdução, tipos de dados no R: vetores, matrizes, fatores, data frames, listas.
 
+### Material do curso "Introduction to R for journalists"
+- O curso já aconteceu, mas o material está disponível.
+- Link: https://journalismcourses.org/intro-r.html
+- Conteúdo: Programming in R, Wrangling Data, Visualizing Data, Spatial Analysis, Publishing for Reproducibility.
+
+
 ## Cheatsheets do R
 - Ambiente de desenvolvimento RSTUDIO: [Português](https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/rstudio-IDE-cheatsheet-portuguese.pdf), [Inglês](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
 - [Importar dados/Data import](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf) - Inglês
