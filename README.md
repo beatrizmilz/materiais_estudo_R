@@ -4,25 +4,27 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 
 ## Materiais em Português
 
-### Curso-R
+### - [Apresentações dos Meetups do R-Ladies São Paulo](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/README.md)
+
+### - Curso-R
 - Material de estudo: http://material.curso-r.com/
 - Blog: https://www.curso-r.com/blog/
 
 *A Curso-R também oferece cursos presenciais: http://curso-r.com/
 
-### Disciplina Introdução à Programação e Ferramentas Computacionais para as Ciências Sociais
+### - Disciplina Introdução à Programação e Ferramentas Computacionais para as Ciências Sociais
 - Esse material é disponibilizado no GITHUB pelo Leonardo Barone. 
 - Material gratuito;
 - Em português;
 - Link: https://github.com/leobarone/FLS6397_2018
 
-### Disciplina CE083 - Estatística Computacional I
+### - Disciplina CE083 - Estatística Computacional I
 - Esse material é disponibilizado no GITHUB pelo  Fernando de Pol Mayer. 
 - Material gratuito;
 - Em português;
 - Link: http://leg.ufpr.br/~fernandomayer/aulas/ce083/
 
-### Materiais disponibilizados por professores do Departamento de Estatística da UFPR
+### - Materiais disponibilizados por professores do Departamento de Estatística da UFPR
 - Material gratuito;
 - Em português;
 - Mineraçao de texto: http://leg.ufpr.br/~walmes/ensino/mintex/
@@ -35,7 +37,7 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 - Modelos lineares generalizados: https://docs.ufpr.br/~taconeli/CE22518/CE22518.html e https://docs.ufpr.br/~taconeli/CE06218/CE06218.html
 
 
-### Livro: Ciência de Dados com R – Introdução
+### - Livro: Ciência de Dados com R – Introdução
 - Livro disponibilizado gratuitamente em PDF;
 - Em português; 
 - Referência: Instituto Brasileiro de Pesquisa e Análise de Dados;
@@ -44,19 +46,19 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 
 ## Materiais em Inglês
 
-### Livro: Hands-On Programming with R
+### - Livro: Hands-On Programming with R
 - Livro disponibilizado gratuitamente em bookdown; 
 - Autor: Garrett Grolemund
 - Link: https://rstudio-education.github.io/hopr/
 - Conteúdo: básico do R e RStudio, Pacotes, objetos, tipos de dados, funções, etc.
 
-### Livro: R for Data Science
+### - Livro: R for Data Science
 - Livro disponibilizado gratuitamente em bookdown; 
 - Autor: Garrett Grolemund e Hadley Wickham
 - Link: http://r4ds.had.co.nz/
 - Conteúdo: diversas funções do pacote Tidyverse, etc.
 
-### Curso: DATACAMP - Introdução ao R/Introduction to R
+### - Curso: DATACAMP - Introdução ao R/Introduction to R
 - Curso gratuito;
 - Em inglês;
 - Referência: Datacamp;
@@ -64,13 +66,13 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 - Link: https://www.datacamp.com/courses/free-introduction-to-r 
 - Conteúdo: introdução, tipos de dados no R: vetores, matrizes, fatores, data frames, listas.
 
-### Material do curso "Introduction to R for journalists"
+### - Material do curso "Introduction to R for journalists"
 - O curso já aconteceu, mas o material está disponível.
 - Link: https://journalismcourses.org/intro-r.html
 - Conteúdo: Programming in R, Wrangling Data, Visualizing Data, Spatial Analysis, Publishing for Reproducibility.
 
 
-## Cheatsheets do R
+## - Cheatsheets do R
 - Ambiente de desenvolvimento RSTUDIO: [Português](https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/rstudio-IDE-cheatsheet-portuguese.pdf), [Inglês](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
 - [Importar dados/Data import](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf) - Inglês
 - [Visualização de dados](https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/ggplot2-cheatsheet-portuguese.pdf) - Português
