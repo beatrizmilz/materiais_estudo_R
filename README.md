@@ -58,13 +58,6 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 - Link: http://r4ds.had.co.nz/
 - Conteúdo: diversas funções do pacote Tidyverse, etc.
 
-### - Curso: DATACAMP - Introdução ao R/Introduction to R
-- Curso gratuito;
-- Em inglês;
-- Referência: Datacamp;
-- Disponível em desktop e mobile;
-- Link: https://www.datacamp.com/courses/free-introduction-to-r 
-- Conteúdo: introdução, tipos de dados no R: vetores, matrizes, fatores, data frames, listas.
 
 ### - Material do curso "Introduction to R for journalists"
 - O curso já aconteceu, mas o material está disponível.
