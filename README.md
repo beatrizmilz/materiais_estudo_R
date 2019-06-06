@@ -15,18 +15,15 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 ### - Disciplina Introdução à Programação e Ferramentas Computacionais para as Ciências Sociais
 - Esse material é disponibilizado no GITHUB pelo Leonardo Barone. 
 - Material gratuito;
-- Em português;
 - Link: https://github.com/leobarone/FLS6397_2018
 
 ### - Disciplina CE083 - Estatística Computacional I
 - Esse material é disponibilizado no GITHUB pelo  Fernando de Pol Mayer. 
 - Material gratuito;
-- Em português;
 - Link: http://leg.ufpr.br/~fernandomayer/aulas/ce083/
 
 ### - Materiais disponibilizados por professores do Departamento de Estatística da UFPR
 - Material gratuito;
-- Em português;
 - Mineraçao de texto: http://leg.ufpr.br/~walmes/ensino/mintex/
 - Machine Learning: http://leg.ufpr.br/~walmes/ensino/ML/
 - Pesquisa reproduzivel: http://leg.ufpr.br/~walmes/ensino/pesq-reprod/
@@ -39,10 +36,17 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 
 ### - Livro: Ciência de Dados com R – Introdução
 - Livro disponibilizado gratuitamente em PDF;
-- Em português; 
 - Referência: Instituto Brasileiro de Pesquisa e Análise de Dados;
 - Ano: 2018
 - Link: https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r
+
+
+### - Bookdown - Introdução a R para Visualização e Apresentação de Dados
+- Em português
+- Material disponibilizado gratuitamente
+- Ano: 2018
+- Autor: Sillas Gonzaga
+- Link: http://sillasgonzaga.com/material/curso_visualizacao/
 
 ## Materiais em Inglês
 
