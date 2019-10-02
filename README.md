@@ -50,6 +50,10 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 
 ## Materiais em Inglês
 
+
+### - Cursos
+- Data Scientist with R : https://www.datacamp.com/tracks/data-scientist-with-r
+
 ### - Livro: Hands-On Programming with R
 - Livro disponibilizado gratuitamente em bookdown; 
 - Autor: Garrett Grolemund
