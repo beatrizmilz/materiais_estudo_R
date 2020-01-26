@@ -2,6 +2,8 @@
 
 A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratuitos e em português. 
 
+Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https://github.com/beatrizmilz/materiais_estudo_R/blob/master/disciplinas.md).
+
 ## Materiais em Português
 
 ### - [Apresentações dos Meetups do R-Ladies São Paulo](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/README.md)
