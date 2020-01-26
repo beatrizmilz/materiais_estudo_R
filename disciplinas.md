@@ -20,7 +20,11 @@ Caso **não** seja aluno/aluna regular de um curso de Pós-graduação na USP, p
 
 ### Oferecidas no 2º Semestre
 
-Em breve
+| Instituto                                         | Curso de Pós-Graduação                                | Código da disciplina | Nome da disciplina                                                                 |
+|---------------------------------------------------|-------------------------------------------------------|----------------------|------------------------------------------------------------------------------------|
+| Faculdade de Filosofia, Letras e Ciências Humanas | 8131 - Ciência Política                               | FLS6397              | Introdução à Análise de Dados, Programação e Visualização para as Ciências Sociais |
+| Instituto de Matemática e Estatística             | 45133 - Estatística                                   | MAE5905              | Introdução a Ciência de Dados                                                      |
+| Instituto de Biociências                          | 41134 - Ecologia: Ecossistemas Terrestres e Aquáticos | BIE5782              | Uso da Linguagem R para Análise de Dados em Ecologia                               |
 
 
 ## Disciplinas na Universidade Federal do ABC (UFABC)
