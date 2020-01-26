@@ -2,7 +2,7 @@
 
 O propósito desta lista é facilitar a procura por disciplinas que abordem ciência de dados e/ou façam o uso de R.
 
-## Disciplinas na Universidade de São Paulo
+## Disciplinas na Universidade de São Paulo (USP)
 
 Para saber mais sobre as disciplinas, basta buscar pelo código da disciplina no site [Janus USP](https://uspdigital.usp.br/janus/componente/disciplinasOferecidasInicial.jsf).
 Caso seja aluno/aluna regular de um curso de Pós-graduação na USP, a inscrição nas disciplinas é feita através do Janus, nos períodos de matrícula. 
@@ -13,13 +13,22 @@ Caso **não** seja aluno/aluna regular de um curso de Pós-graduação na USP, p
 
 | Instituto                                         | Curso de Pós-Graduação                                | Código da disciplina | Nome da disciplina                                                                 |
 |---------------------------------------------------|-------------------------------------------------------|----------------------|------------------------------------------------------------------------------------|
-| Faculdade de Filosofia, Letras e Ciências Humanas | 8131 - Ciência Política                               | FLS6397              | Introdução à Análise de Dados, Programação e Visualização para as Ciências Sociais |
-| Instituto de Matemática e Estatística             | 45133 - Estatística                                   | MAE5905              | Introdução a Ciência de Dados                                                      |
-| Instituto de Biociências                          | 41134 - Ecologia: Ecossistemas Terrestres e Aquáticos | BIE5782              | Uso da Linguagem R para Análise de Dados em Ecologia                               |                                             |
+| Faculdade de Filosofia, Letras e Ciências Humanas | [8131 - Ciência Política](http://dcp.fflch.usp.br/index.php/pos-graduacao/disciplinas)                               | FLS6397              | Introdução à Análise de Dados, Programação e Visualização para as Ciências Sociais |
+| Instituto de Matemática e Estatística             | [45133 - Estatística](https://www.ime.usp.br/mae/pos/disciplinas)                                   | MAE5905              | Introdução a Ciência de Dados                                                      |
+| Instituto de Biociências                          | [41134 - Ecologia: Ecossistemas Terrestres e Aquáticos](https://www.ib.usp.br/ecologia.html) | BIE5782              | [Uso da Linguagem R para Análise de Dados em Ecologia](http://ecologia.ib.usp.br/bie5782/doku.php)                               |                                             |
 
 ### Oferecidas no 2º Semestre
 
 Em breve
+
+
+## Disciplinas na Universidade Federal do ABC (UFABC)
+
+A inscrição de alunos especiais é através [deste link](http://propg.ufabc.edu.br/inscricoes-de-alunos-especiais-2020-1/).
+
+| Curso de Pós-Graduação                                |  Nome da disciplina                                                                 |
+|-------------------------------------------------------|------------------------------------------------------------------------------------|
+| [Ciência e Tecnologia Ambiental](http://propg.ufabc.edu.br/cta/oprograma/disciplinas/)            | Uso de Dados Espaciais para Estudos Ambientais |
 
 _____
 
