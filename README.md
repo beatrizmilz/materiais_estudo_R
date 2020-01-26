@@ -70,6 +70,11 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 - Link: https://journalismcourses.org/intro-r.html
 - Conteúdo: Programming in R, Wrangling Data, Visualizing Data, Spatial Analysis, Publishing for Reproducibility.
 
+### Cursos: [Programa de cursos integrados Statistics with R]( https://pt.coursera.org/specializations/statistics)
+- Autores: Mine Çetinkaya-Rundel, David Banks, Colin Rundel, Merlise A Clyde.
+- Conteúdo: Bayesian Statistics, Linear Regression, Statistical Inference, R Programming
+- Tempo para conclusão: Aproximadamente 7 meses, sendo sugeridas 5 horas/semana de dedicação ao curso.
+- Livro base do 1º curso, disponível gratuitamente em ("read free sample"): [OpenIntro Statistics](https://leanpub.com/openintro-statistics)
 
 ## - Cheatsheets do R
 - Ambiente de desenvolvimento RSTUDIO: [Português](https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/rstudio-IDE-cheatsheet-portuguese.pdf), [Inglês](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
