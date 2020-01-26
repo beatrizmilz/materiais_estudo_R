@@ -20,11 +20,12 @@ Caso **não** seja aluno/aluna regular de um curso de Pós-graduação na USP, p
 
 ### Oferecidas no 2º Semestre
 
-| Instituto                                         | Curso de Pós-Graduação                                | Código da disciplina | Nome da disciplina                                                                 |
-|---------------------------------------------------|-------------------------------------------------------|----------------------|------------------------------------------------------------------------------------|
-| Faculdade de Filosofia, Letras e Ciências Humanas | 8131 - Ciência Política                               | FLS6397              | Introdução à Análise de Dados, Programação e Visualização para as Ciências Sociais |
-| Instituto de Matemática e Estatística             | 45133 - Estatística                                   | MAE5905              | Introdução a Ciência de Dados                                                      |
-| Instituto de Biociências                          | 41134 - Ecologia: Ecossistemas Terrestres e Aquáticos | BIE5782              | Uso da Linguagem R para Análise de Dados em Ecologia                               |
+| Instituto                             | Curso de Pós-Graduação       | Código da disciplina | Nome da disciplina                                    |
+|---------------------------------------|------------------------------|----------------------|-------------------------------------------------------|
+| Faculdade de Medicina                 | 5499 - Faculdade de Medicina | FMM5003              | Princípios de Análise de Dados e de Bioestatística    |
+| Faculdade de Medicina                 | 5169 - Educação e Saúde      | MCM5880              | Bioestatística I                                      |
+| Instituto de Matemática e Estatística | 45133 - Estatística          | MAE5755              | Métodos Estatísticos Aplicados às Ciências Biológicas |
+| Instituto de Matemática e Estatística | 45133 - Estatística          | MAE5904              | Aprendizagem estatística em altas dimensões           |
 
 
 ## Disciplinas na Universidade Federal do ABC (UFABC)
