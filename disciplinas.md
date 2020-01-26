@@ -20,3 +20,9 @@ Caso **não** seja aluno/aluna regular de um curso de Pós-graduação na USP, p
 ### Oferecidas no 2º Semestre
 
 Em breve
+
+_____
+
+Lista elaborada com sugestões de: [R-Ladies São Paulo](https://github.com/rladies/meetup-presentations_sao-paulo), [Beatriz Milz](https://github.com/beatrizmilz), [Fernanda Fortti](https://github.com/FeFortti).
+
+Caso conheça alguma disciplina interessante que possa ser adicionada nessa lista, envie por PR ou Issue :) Obrigada!
