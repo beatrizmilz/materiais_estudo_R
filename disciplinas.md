@@ -15,7 +15,8 @@ Caso **não** seja aluno/aluna regular de um curso de Pós-graduação na USP, p
 |---------------------------------------------------|-------------------------------------------------------|----------------------|------------------------------------------------------------------------------------|
 | Faculdade de Filosofia, Letras e Ciências Humanas | [8131 - Ciência Política](http://dcp.fflch.usp.br/index.php/pos-graduacao/disciplinas)                               | FLS6397              | Introdução à Análise de Dados, Programação e Visualização para as Ciências Sociais |
 | Instituto de Matemática e Estatística             | [45133 - Estatística](https://www.ime.usp.br/mae/pos/disciplinas)                                   | MAE5905              | Introdução a Ciência de Dados                                                      |
-| Instituto de Biociências                          | [41134 - Ecologia: Ecossistemas Terrestres e Aquáticos](https://www.ib.usp.br/ecologia.html) | BIE5782              | [Uso da Linguagem R para Análise de Dados em Ecologia](http://ecologia.ib.usp.br/bie5782/doku.php)                               |                                             |
+| Instituto de Biociências                          | [41134 - Ecologia: Ecossistemas Terrestres e Aquáticos](https://www.ib.usp.br/ecologia.html) | BIE5782              | [Uso da Linguagem R para Análise de Dados em Ecologia](http://ecologia.ib.usp.br/bie5782/doku.php)                               |  
+| Faculdade de Saúde Pública                          | 6141 - Epidemiologia | EPI5713              | Introdução ao R para a Análise de Dados         |  |
 
 ### Oferecidas no 2º Semestre
 
