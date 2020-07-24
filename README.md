@@ -36,6 +36,28 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 
 
 
+
+### - Conjunto de textos/tutoriais para R (PPG Ecologia UFRGS)
+- Idioma: Português
+- Acesso: Gratuito
+- Ano: 2019-2020 
+- Autor: Vanderlei Júlio Debastiani
+- Textos:
+- Introdução à programação - Conceitos e aplicação de Lógica
+- Introdução ao R
+- Aprendendo R em 10 minutos
+- Gráficos com R
+- Documentação de resultados usando R Markdown
+- Estatística básica em R
+- Link do Projeto: [Conjunto de textos/tutoriais para R](https://vanderleidebastiani.github.io/tutoriais/)
+
+### - Material da discplina Introdução à Linguagem R (PPG Ecologia USP)
+- Idioma: Português
+- Acesso: Gratuito
+- Ano: 2009-Atual
+- Autores: Alexandre Adalardo de Oliveira, João Luis Ferreira Batista e Paulo Inácio K. L. Prado
+- Link:[Introdução à Linguagem R](http://ecologia.ib.usp.br/bie5782/doku.php?id=start)
+
 ## Materiais em Inglês
 
 ### - Livro: Hands-On Programming with R
