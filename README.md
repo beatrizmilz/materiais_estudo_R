@@ -6,23 +6,19 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 
 ## Materiais em Português
 
-### - [Apresentações dos Meetups do R-Ladies São Paulo](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/README.md)
+-  Apresentações dos [Meetups do R-Ladies São Paulo](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/README.md): apresentações de diversos conteúdos, de encontros desde 2018.
 
-### - Curso-R
-- Material de estudo: http://material.curso-r.com/
-- Blog: https://www.curso-r.com/blog/
+- Disciplina [Introdução à Programação e Ferramentas Computacionais para as Ciências Sociais](https://jonnyphillips.github.io/Ciencia_de_Dados/): todas as aulas estão disponíveis na aba tutoriais. 
 
-*A Curso-R também oferece cursos presenciais: http://curso-r.com/
+- [Curso-R](http://curso-r.com/): diversas análises nos posts do [blog](https://www.curso-r.com/blog/) da Curso-R, e [materiais de estudo](http://material.curso-r.com/). A Curso-R oferece também [cursos presenciais](http://curso-r.com/). 
 
-### - Disciplina Introdução à Programação e Ferramentas Computacionais para as Ciências Sociais
-- Esse material é disponibilizado no GITHUB pelo Leonardo Barone. 
-- Material gratuito;
-- Link: https://github.com/leobarone/FLS6397_2018
+- Disciplina [Estatística Computacional I](http://leg.ufpr.br/~fernandomayer/aulas/ce083/): todas as aulas estão disponíveis na aba materiais. 
 
-### - Disciplina CE083 - Estatística Computacional I
-- Esse material é disponibilizado no GITHUB pelo  Fernando de Pol Mayer. 
-- Material gratuito;
-- Link: http://leg.ufpr.br/~fernandomayer/aulas/ce083/
+- Livro [Ciência de Dados com R – Introdução](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r), Instituto Brasileiro de Pesquisa e Análise de Dados, 2018
+
+- Livro [Introdução a R para Visualização e Apresentação de Dados](http://sillasgonzaga.com/material/curso_visualizacao/), por Sillas Gonzaga, 2018
+
+
 
 ### - Materiais disponibilizados por professores do Departamento de Estatística da UFPR
 - Material gratuito;
@@ -36,19 +32,7 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 - Modelos lineares generalizados: https://docs.ufpr.br/~taconeli/CE22518/CE22518.html e https://docs.ufpr.br/~taconeli/CE06218/CE06218.html
 
 
-### - Livro: Ciência de Dados com R – Introdução
-- Livro disponibilizado gratuitamente em PDF;
-- Referência: Instituto Brasileiro de Pesquisa e Análise de Dados;
-- Ano: 2018
-- Link: https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r
 
-
-### - Bookdown - Introdução a R para Visualização e Apresentação de Dados
-- Em português
-- Material disponibilizado gratuitamente
-- Ano: 2018
-- Autor: Sillas Gonzaga
-- Link: http://sillasgonzaga.com/material/curso_visualizacao/
 
 ## Materiais em Inglês
 
