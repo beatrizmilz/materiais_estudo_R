@@ -54,9 +54,13 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 - Autores: Alexandre Adalardo de Oliveira, João Luis Ferreira Batista e Paulo Inácio K. L. Prado
 - Link:[Introdução à Linguagem R](http://ecologia.ib.usp.br/bie5782/doku.php?id=start)
 
-### - Cursos gratuitos
+### - Curso gratuitos
 
-- Certificação da ENAP (Escola Nacional de Administração Pública): https://www.escolavirtual.gov.br/curso/325
+- Certificação da ENAP (Escola Nacional de Administração Pública)
+- Idioma: Português
+- Acesso: Gratuito
+- Ano: 2020-Atual
+- Link [Curso R ENAP](https://www.escolavirtual.gov.br/curso/325)
 
 ## Materiais em Inglês
 
