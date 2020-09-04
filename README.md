@@ -33,10 +33,6 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 - Dados categoricos: https://docs.ufpr.br/~giolo/LivroADC/
 - Modelos lineares generalizados: https://docs.ufpr.br/~taconeli/CE22518/CE22518.html e https://docs.ufpr.br/~taconeli/CE06218/CE06218.html
 
-
-
-
-
 ### - Conjunto de textos/tutoriais para R (PPG Ecologia UFRGS)
 - Idioma: Português
 - Acesso: Gratuito
@@ -57,6 +53,14 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 - Ano: 2009-Atual
 - Autores: Alexandre Adalardo de Oliveira, João Luis Ferreira Batista e Paulo Inácio K. L. Prado
 - Link:[Introdução à Linguagem R](http://ecologia.ib.usp.br/bie5782/doku.php?id=start)
+
+### - Curso gratuitos
+
+- Certificação da ENAP (Escola Nacional de Administração Pública)
+- Idioma: Português
+- Acesso: Gratuito
+- Ano: 2020-Atual
+- Link [Curso R ENAP](https://www.escolavirtual.gov.br/curso/325)
 
 ## Materiais em Inglês
 
