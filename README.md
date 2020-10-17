@@ -54,6 +54,10 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 - Autores: Alexandre Adalardo de Oliveira, João Luis Ferreira Batista e Paulo Inácio K. L. Prado
 - Link:[Introdução à Linguagem R](http://ecologia.ib.usp.br/bie5782/doku.php?id=start)
 
+### - Git
+
+Vídeos [Curso de Git](https://www.youtube.com/watch?v=udw3J335ZHo&list=PLa_2246N48_rF_D5YgW2niCQ6J8RmaoXu&index=1)
+
 ### - Curso gratuitos
 
 - Certificação da ENAP (Escola Nacional de Administração Pública)
