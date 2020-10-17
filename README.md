@@ -18,6 +18,8 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 
 - Livro [Introdução a R para Visualização e Apresentação de Dados](http://sillasgonzaga.com/material/curso_visualizacao/), por Sillas Gonzaga, 2018
 
+- Vídeo [Como instalar o R/RStudio e integrar com o LaTeX?](https://www.youtube.com/watch?v=80d3aCzf1Vc)
+
 - **Git e GitHub**: 
   - Apresentação [Primeiros passos utilizando o Git e GitHub no RStudio](https://beatrizmilz.github.io/RLadies-Git-RStudio-2019/#1)
   - Apresentação [Trabalhos reprodutíveis com R e Git: um exemplo usando o pacote `coronabr`](https://github.com/saramortara/R-git-apresentacao/blob/master/trabalhos_reprodutiveis.pdf) ([video no Youtube](https://youtu.be/4nfIbiS1Huw))
