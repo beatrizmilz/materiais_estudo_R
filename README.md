@@ -62,6 +62,11 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 - Ano: 2020-Atual
 - Link [Curso R ENAP](https://www.escolavirtual.gov.br/curso/325)
 
+### - Material LaTeX
+
+- Livro [Santos, Reginaldo J.. Introdução ao LaTeX. Departamento de Matemática-ICEx. Universidade Federal de Minas Gerais. 2002.](https://www.dropbox.com/s/emki1pwu6czdeiy/intlat.pdf)
+- Vídeos [Introdução ao LaTeX](https://www.youtube.com/watch?v=xQ3yYqLlHcQ&list=PLa_2246N48_p9ndUHlO255uvKtSR8mshE)
+
 ## Materiais em Inglês
 
 ### - Livro: Hands-On Programming with R
