@@ -10,13 +10,15 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 
 - Disciplina [Introdução à Programação e Ferramentas Computacionais para as Ciências Sociais](https://jonnyphillips.github.io/Ciencia_de_Dados/): todas as aulas estão disponíveis na aba tutoriais. 
 
-- [Curso-R](http://curso-r.com/): diversas análises nos posts do [blog](https://www.curso-r.com/blog/) da Curso-R, e [materiais de estudo](http://material.curso-r.com/). A Curso-R oferece também [cursos presenciais](http://curso-r.com/). 
+- [Curso-R](http://curso-r.com/): diversas análises nos posts do [blog](https://www.curso-r.com/blog/) da Curso-R, e [materiais de estudo](http://material.curso-r.com/). A Curso-R oferece também [cursos presenciais](http://curso-r.com/).
 
 - Disciplina [Estatística Computacional I](http://leg.ufpr.br/~fernandomayer/aulas/ce083/): todas as aulas estão disponíveis na aba materiais. 
 
 - Livro [Ciência de Dados com R – Introdução](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r), Instituto Brasileiro de Pesquisa e Análise de Dados, 2018
 
 - Livro [Introdução a R para Visualização e Apresentação de Dados](http://sillasgonzaga.com/material/curso_visualizacao/), por Sillas Gonzaga, 2018
+
+- Canal do Youtube [Estatística Aplicada à Vida Real](https://www.youtube.com/channel/UCx1vXgGDXc7BH7bI1KC_o7Q) por Fernanda Peres: contém vídeos sobre conceitos estatísticos e suas aplicações com R, SPSS e Excel
 
 - Vídeo [Como instalar o R/RStudio e integrar com o LaTeX?](https://www.youtube.com/watch?v=80d3aCzf1Vc)
 
