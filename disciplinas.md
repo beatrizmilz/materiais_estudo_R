@@ -26,6 +26,7 @@ Caso **não** seja aluno/aluna regular de um curso de Pós-graduação na USP, p
 | Faculdade de Medicina                 | 5169 - Educação e Saúde      | MCM5880              | Bioestatística I                                      |
 | Instituto de Matemática e Estatística | 45133 - Estatística          | MAE5755              | Métodos Estatísticos Aplicados às Ciências Biológicas |
 | Instituto de Matemática e Estatística | 45133 - Estatística          | MAE5904              | Aprendizagem estatística em altas dimensões           |
+| Instituto de Psicologia               | [Psicologia (Graduação)](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=47&codcur=47011&codhab=0&tipo=N)   | PSE3252       | Estatística Aplicada à Psicologia    |  
 
 
 ## Disciplinas na Universidade Federal do ABC (UFABC)
