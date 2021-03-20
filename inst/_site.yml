@@ -1,0 +1,16 @@
+name: "&quot;Materiais de estudo sobre R&quot;"
+title: "Materiais de estudo sobre R"
+description: |
+  Materiais de estudo sobre R
+output_dir: "_site"
+navbar:
+  left:
+    - icon: fas fa-home
+      href: index.html
+  right:
+
+    - icon: fab fa-github
+      href: https://github.com/beatrizmilz/materiais_estudo_R
+output: distill::distill_article
+creative_commons: CC BY
+theme: custom.css
