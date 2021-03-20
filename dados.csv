@@ -1,31 +1,31 @@
-titulo;url;categoria;tema;autoria;idioma
-Ciência de Dados em R;https://livro.curso-r.com/;Livros;Ciência de Dados/Data Science;Curso-R;Português
-Ciência de Dados com R;https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r;Livros;Ciência de Dados/Data Science;Instituto Brasileiro de Pesquisa e Análise de Dados;Português
-R-Ladies São Paulo;https://www.youtube.com/c;Canais no Youtube;Comunidades;R-Ladies São Paulo;Português
-Estatística Aplicada à Vida Real;https://www.youtube.com/channel/UCx1vXgGDXc7BH7bI1KC_o7Q;Canais no Youtube;Estatística;Fernanda Peres;Português
-Curso-R;https://www.youtube.com/c/CursoR6/featured;Canais no Youtube;Ciência de Dados/Data Science;Curso-R;Português
-R-Ladies Rio;https://www.youtube.com/channel/UCGwTYiK7vTePhPpDRgQAq_A;Canais no Youtube;Comunidades;R-Ladies Rio;Português
-Curso-R;https://www.curso-r.com/blog/;Blogs;Ciência de Dados/Data Science;Curso-R;Português
-Capítulos da R-Ladies no Brasil;https://github.com/R-Ladies-Sao-Paulo/RLadies-Brasil/blob/master/README.md;Comunidades;Comunidades;R-Ladies;Português
-Tutoriais para R;https://vanderleidebastiani.github.io/tutoriais/;Tutoriais;Programação em R | Estatística;Vanderlei Júlio Debastiani;Português
-Curso de Git - Video;https://www.youtube.com/watch?v=udw3J335ZHo&list=PLa_2246N48_rF_D5YgW2niCQ6J8RmaoXu&index=1;Tutoriais;Git;Canal YT: Professor Aquino - Matemática;Português
-Curso de LaTeX - Video;https://www.youtube.com/watch?v=xQ3yYqLlHcQ&list=PLa_2246N48_p9ndUHlO255uvKtSR8mshE;Tutoriais;LaTeX;Canal YT: Professor Aquino - Matemática;Português
-Apresentações das R-Ladies São Paulo;https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/README.md;Apresentações;Temas diversos;R-Ladies São Paulo;Português
-Trabalhos reprodutíveis com R e git;https://youtu.be/4nfIbiS1Huw;Apresentações;Reprodutibilidade;Sara Mortara;Português
-Apresentações da Beatriz Milz;https://beatrizmilz.com/materiais_r.html;Apresentações;Temas diversos;Beatriz Milz;Português
-Mineração de texto;http://leg.ufpr.br/~walmes/ensino/mintex/;Disciplinas com materiais disponíveis;Mineração de texto/Text mining;UFPR;Português
-Machine Learning;http://leg.ufpr.br/~walmes/ensino/ML/;Disciplinas com materiais disponíveis;Aprendizagem de máquina/Machine Learning;UFPR;Português
-Pesquisa reproduzivel;http://leg.ufpr.br/~walmes/ensino/pesq-reprod/;Disciplinas com materiais disponíveis;Reprodutibilidade;UFPR;Português
-Estatistica computacional/simulação;http://leg.ufpr.br/~walmes/ensino/EC2/;Disciplinas com materiais disponíveis;Estatística;UFPR;Português
-Análise de sobrevivência;https://docs.ufpr.br/~giolo/Livro/;Disciplinas com materiais disponíveis;Estatística;UFPR;Português
-Análise de Regressão Linear;https://docs.ufpr.br/~giolo/CE071/Codigos/Comandos_CE071.html;Disciplinas com materiais disponíveis;Estatística;UFPR;Português
-Dados categóricos;https://docs.ufpr.br/~giolo/LivroADC/;Disciplinas com materiais disponíveis;Estatística;UFPR;Português
-Modelos lineares generalizados;https://docs.ufpr.br/~taconeli/CE22518/CE22518.html e https://docs.ufpr.br/~taconeli/CE06218/CE06218.html;Disciplinas com materiais disponíveis;Estatística;UFPR;Português
-Introdução à Programação e Ferramentas Computacionais para as Ciências Sociais;https://jonnyphillips.github.io/Ciencia_de_Dados/;Disciplinas com materiais disponíveis;Ciência de Dados/Data Science;FFLCH/USP;Português
-Estatística Computacional I;http://leg.ufpr.br/~fernandomayer/aulas/ce083/;Disciplinas com materiais disponíveis;Estatística;UFPR;Português
-Introdução à Linguagem R;http://ecologia.ib.usp.br/bie5782/doku.php?id=start;Disciplinas com materiais disponíveis;Programação em R;IB/USP;Português
-Curso-R;http://curso-r.com/;Cursos;Ciência de Dados/Data Science;Curso-R;Português
-Análise de Dados em Linguagem R;https://www.escolavirtual.gov.br/curso/325;Cursos;Programação em R;ENAP (Escola Nacional de Administração Pública);Português
-Ambiente de desenvolvimento RStudio;https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/rstudio-IDE-cheatsheet-portuguese.pdf;Cheatsheets/Folhas de cola;Programação em R;RStudio;Português
-Visualização de dados com ggplot2;https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/ggplot2-cheatsheet-portuguese.pdf;Cheatsheets/Folhas de cola;Programação em R;RStudio;Português
-Manipulação de dados com o pacote dplyr;https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/data-wrangling-cheatsheet-portuguese.pdf;Cheatsheets/Folhas de cola;Programação em R;RStudio;Português
+titulo,url,categoria,tema,autoria,idioma
+Ciência de Dados em R,https://livro.curso-r.com/,Livros,Ciência de Dados/Data Science,Curso-R,Português
+Ciência de Dados com R,https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r,Livros,Ciência de Dados/Data Science,Instituto Brasileiro de Pesquisa e Análise de Dados,Português
+R-Ladies São Paulo,https://www.youtube.com/c,Canais no Youtube,Comunidades,R-Ladies São Paulo,Português
+Estatística Aplicada à Vida Real,https://www.youtube.com/channel/UCx1vXgGDXc7BH7bI1KC_o7Q,Canais no Youtube,Estatística,Fernanda Peres,Português
+Curso-R,https://www.youtube.com/c/CursoR6/featured,Canais no Youtube,Ciência de Dados/Data Science,Curso-R,Português
+R-Ladies Rio,https://www.youtube.com/channel/UCGwTYiK7vTePhPpDRgQAq_A,Canais no Youtube,Comunidades,R-Ladies Rio,Português
+Curso-R,https://www.curso-r.com/blog/,Blogs,Ciência de Dados/Data Science,Curso-R,Português
+Capítulos da R-Ladies no Brasil,https://github.com/R-Ladies-Sao-Paulo/RLadies-Brasil/blob/master/README.md,Comunidades,Comunidades,R-Ladies,Português
+Tutoriais para R,https://vanderleidebastiani.github.io/tutoriais/,Tutoriais,Programação em R | Estatística,Vanderlei Júlio Debastiani,Português
+Curso de Git - Video,https://www.youtube.com/watch?v=udw3J335ZHo&list=PLa_2246N48_rF_D5YgW2niCQ6J8RmaoXu&index=1,Tutoriais,Git,Canal YT: Professor Aquino - Matemática,Português
+Curso de LaTeX - Video,https://www.youtube.com/watch?v=xQ3yYqLlHcQ&list=PLa_2246N48_p9ndUHlO255uvKtSR8mshE,Tutoriais,LaTeX,Canal YT: Professor Aquino - Matemática,Português
+Apresentações das R-Ladies São Paulo,https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/README.md,Apresentações,Temas diversos,R-Ladies São Paulo,Português
+Trabalhos reprodutíveis com R e git,https://youtu.be/4nfIbiS1Huw,Apresentações,Reprodutibilidade,Sara Mortara,Português
+Apresentações da Beatriz Milz,https://beatrizmilz.com/materiais_r.html,Apresentações,Temas diversos,Beatriz Milz,Português
+Mineração de texto,http://leg.ufpr.br/~walmes/ensino/mintex/,Disciplinas com materiais disponíveis,Mineração de texto/Text mining,UFPR,Português
+Machine Learning,http://leg.ufpr.br/~walmes/ensino/ML/,Disciplinas com materiais disponíveis,Aprendizagem de máquina/Machine Learning,UFPR,Português
+Pesquisa reproduzivel,http://leg.ufpr.br/~walmes/ensino/pesq-reprod/,Disciplinas com materiais disponíveis,Reprodutibilidade,UFPR,Português
+Estatistica computacional/simulação,http://leg.ufpr.br/~walmes/ensino/EC2/,Disciplinas com materiais disponíveis,Estatística,UFPR,Português
+Análise de sobrevivência,https://docs.ufpr.br/~giolo/Livro/,Disciplinas com materiais disponíveis,Estatística,UFPR,Português
+Análise de Regressão Linear,https://docs.ufpr.br/~giolo/CE071/Codigos/Comandos_CE071.html,Disciplinas com materiais disponíveis,Estatística,UFPR,Português
+Dados categóricos,https://docs.ufpr.br/~giolo/LivroADC/,Disciplinas com materiais disponíveis,Estatística,UFPR,Português
+Modelos lineares generalizados,https://docs.ufpr.br/~taconeli/CE22518/CE22518.html e https://docs.ufpr.br/~taconeli/CE06218/CE06218.html,Disciplinas com materiais disponíveis,Estatística,UFPR,Português
+Introdução à Programação e Ferramentas Computacionais para as Ciências Sociais,https://jonnyphillips.github.io/Ciencia_de_Dados/,Disciplinas com materiais disponíveis,Ciência de Dados/Data Science,FFLCH/USP,Português
+Estatística Computacional I,http://leg.ufpr.br/~fernandomayer/aulas/ce083/,Disciplinas com materiais disponíveis,Estatística,UFPR,Português
+Introdução à Linguagem R,http://ecologia.ib.usp.br/bie5782/doku.php?id=start,Disciplinas com materiais disponíveis,Programação em R,IB/USP,Português
+Curso-R,http://curso-r.com/,Cursos,Ciência de Dados/Data Science,Curso-R,Português
+Análise de Dados em Linguagem R,https://www.escolavirtual.gov.br/curso/325,Cursos,Programação em R,ENAP (Escola Nacional de Administração Pública),Português
+Ambiente de desenvolvimento RStudio,https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/rstudio-IDE-cheatsheet-portuguese.pdf,Cheatsheets/Folhas de cola,Programação em R,RStudio,Português
+Visualização de dados com ggplot2,https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/ggplot2-cheatsheet-portuguese.pdf,Cheatsheets/Folhas de cola,Programação em R,RStudio,Português
+Manipulação de dados com o pacote dplyr,https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/data-wrangling-cheatsheet-portuguese.pdf,Cheatsheets/Folhas de cola,Programação em R,RStudio,Português
