@@ -9,6 +9,28 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+```{r metathis, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_name("github-repo" = "beatrizmilz/materiais_estudo_R") %>% 
+  meta_social(
+    title = "Materiais em Português para estudar R!",
+    description = paste(
+      "Alguns materiais para estudo de R.",
+      "Organizado por Beatriz Milz e várias pessoas da comunidade."
+    ),
+    url = "https://beatrizmilz.github.io/materiais_estudo_R/",
+    image = "https://materiais-estudo-r.netlify.app/img/share-card.png",
+    image_alt = paste(
+      "Página sobre materiais para estudo de R"
+    ),
+    og_type = "website",
+    og_author = "Beatriz Milz",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@beamilz"
+  )
+```
+
 ```{r}
 library(magrittr, include.only = "%>%")
 quem_contribui <- readr::read_csv2("lista_de_pessoas_contribuidoras.csv")
