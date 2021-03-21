@@ -23,6 +23,7 @@ estão os materiais em inglês, que não foram movidos para o site acima
 [liznascimento](https://github.com/liznascimento),
 [diegogaldinof](https://github.com/diegogaldinof),
 [jtrecenti](https://github.com/jtrecenti),
+[adelmofilho](https://github.com/adelmofilho),
 [pedropark99](https://github.com/pedropark99),
 [vanderleidebastiani](https://github.com/vanderleidebastiani),
 [hsvab](https://github.com/hsvab), e
@@ -49,6 +50,7 @@ estão os materiais em inglês, que não foram movidos para o site acima
 | [Blog das R-Ladies Global](https://blog.rladies.org/pt/)                                                                                                      | R-Ladies Global                                       | Blogs                                         | Comunidades                             |
 | [Hope Clouds Observation](https://blog.adelmofilho.com/)                                                                                                      | Adelmo Filho                                          | Blogs                                         | Ciência de Dados                        |
 | [Caio Lente](https://lente.dev/)                                                                                                                              | Caio Lente                                            | Blogs                                         | Programação em R                        |
+| [Blog da R-Ladies GYN](https://www.rladiesgyn.com/blog)                                                                                                       | R-Ladies GYN                                          | Blogs                                         | Comunidades                             |
 | [Beatriz Milz](https://www.twitch.tv/beamilz)                                                                                                                 | Beatriz Milz                                          | Canais na Twitch                              | Temas diversos                          |
 | [Athos Damiani](https://www.twitch.tv/athos_damiani)                                                                                                          | Athos Damiani                                         | Canais na Twitch                              | Temas diversos                          |
 | [Julio Trecenti](https://www.twitch.tv/jtrecenti)                                                                                                             | Julio Trecenti                                        | Canais na Twitch                              | Temas diversos                          |
