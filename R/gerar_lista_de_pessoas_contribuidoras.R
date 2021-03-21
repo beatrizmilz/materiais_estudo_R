@@ -1,3 +1,9 @@
+#' Gera lista de pessoas contribuidoras no repositório
+#'
+#' @return
+#' @export
+#'
+#' @examples
 gerar_lista_contrib <- function(){
   allcontributors::get_contributors(
     org = "beatrizmilz",
