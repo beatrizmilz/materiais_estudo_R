@@ -27,6 +27,7 @@ jobs:
         run: |
 
           Rscript -e 'rmarkdown::render_site("inst/")'
+          Rscript -e 'rmarkdown::render("README.Rmd")'
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"
