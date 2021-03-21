@@ -37,6 +37,14 @@ A inscrição de alunos especiais é através [deste link](http://propg.ufabc.ed
 |-------------------------------------------------------|------------------------------------------------------------------------------------|
 | [Ciência e Tecnologia Ambiental](http://propg.ufabc.edu.br/cta/oprograma/disciplinas/)            | Uso de Dados Espaciais para Estudos Ambientais |
 
+## Disciplinas na Universidade Nove de Julho (UNINOVE)
+
+A [UNINOVE](https://www.uninove.br) é uma instituição privada sem fins lucrativos e todos os mestrandos e doutorandos possuem bolsa integral e muitas vezes uma ajuda de custo PROSUP/CAPES. Há duas disciplinas de estatística que usam R, todas opensource (repositórios GitHub) e com licença creative commons:
+
+| Nome da Disciplina                                |  Link para Blog Distill                                                            |
+|---------------------------------------------------|------------------------------------------------------------------------------------|
+Estatística com R                                   | [storopoli.io/Estatistica/](https://storopoli.io/Estatistica/)             |
+Estatística Bayesiana com R e Stan                  | [storopoli.io/Estatistica-Bayesiana/](https://storopoli.io/Estatistica-Bayesiana/) |
 _____
 
 Lista elaborada com sugestões de: [R-Ladies São Paulo](https://github.com/rladies/meetup-presentations_sao-paulo), [Beatriz Milz](https://github.com/beatrizmilz), [Fernanda Fortti](https://github.com/FeFortti).
