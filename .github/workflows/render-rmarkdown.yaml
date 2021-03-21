@@ -25,7 +25,7 @@ jobs:
         shell: Rscript {0}
       - name: Render Rmarkdown files
         run: |
-
+          Rscript -e 'materiais.estudo.R::gerar_lista_contrib()'
           Rscript -e 'rmarkdown::render_site("inst/")'
           Rscript -e 'rmarkdown::render("README.Rmd")'
       - name: Commit results

@@ -43,6 +43,9 @@ Alguns materiais que estavam no repositório original não foram adicionados nes
 <a class="github-button" href="https://github.com/beatrizmilz/materiais_estudo_R" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star beatrizmilz/materiais_estudo_R on GitHub">Favorite também o repositório no GitHub!</a>
 </center>
 
+Última atualização em: `r format(Sys.Date(), "%d/%m/%Y")`
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
@@ -111,6 +114,9 @@ for (i in 1:n_repeticoes) {
   cat(tabela, "\n\n")
 }
 ```
+
+
+
 
 
 

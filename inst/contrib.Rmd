@@ -1,0 +1,39 @@
+---
+title: "Pessoas contribuidoras"
+description: |
+   A lista abaixo foi gerada a partir das contribuições feitas [neste repositório](https://github.com/beatrizmilz/materiais_estudo_R).
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+library(magrittr, include.only = "%>%")
+quem_contribui <- readr::read_csv2("lista_de_pessoas_contribuidoras.csv")
+```
+
+<center>
+```{r echo=FALSE, results='asis'}
+pessoas_contribuidoras <- quem_contribui %>% 
+  dplyr::mutate(link = glue::glue("[{logins}]({url})")) %>% 
+  dplyr::filter(logins !=  "actions-user") 
+
+
+for (i in 1:nrow(pessoas_contribuidoras)) {
+  # i <- 1
+  pessoa <- pessoas_contribuidoras[i, ]
+
+  cat(glue::glue('
+     <a href={pessoa$url}>    
+    {pessoa$logins}        
+    <img src="{pessoa$avatar}" width="200">
+    </a>
+    <br><br>
+    '
+  ))
+  
+}
+```
+</center>

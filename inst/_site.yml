@@ -7,6 +7,8 @@ navbar:
   left:
     - icon: fas fa-home
       href: index.html
+    - text: Pessoas contribuidoras
+      href: contrib.html
   right:
 
     - icon: fab fa-github
