@@ -1,0 +1,40 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# Materiais para estudar R
+
+O conteúdo desse repositório foi movido para [esse site](https://materiais-estudo-r.netlify.app/). 
+
+Para enviar contribuições, faça uma contribuição [neste arquivo](https://github.com/beatrizmilz/materiais_estudo_R/blob/master/inst/dados.csv), ou [escreva uma issue](https://github.com/beatrizmilz/materiais_estudo_R/issues/new/choose).
+
+[Neste link](https://github.com/beatrizmilz/materiais_estudo_R/blob/master/materiais_ingles.md) estão os materiais em inglês, que não foram movidos para o site acima (ainda).
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(magrittr, include.only = "%>%")
+data_raw <- readr::read_csv("inst/dados.csv")
+```
+
+```{r echo=FALSE}
+data <- data_raw %>% 
+  tidyr::drop_na(url) %>% 
+ dplyr::arrange(categoria) %>% 
+  dplyr::mutate(material = glue::glue("[{titulo}]({url})"))  %>%
+  dplyr::select(material, autoria, categoria, tema)
+    
+    
+knitr::kable(data)
+```
+
