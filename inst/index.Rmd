@@ -59,6 +59,20 @@ data <- data_raw %>%
  dplyr::arrange(titulo)
 ```
 
+
+**Pessoas que contribuíram com essa lista:** 
+
+
+```{r echo=FALSE, results='asis'}
+quem_contribui <- readr::read_csv2("lista_de_pessoas_contribuidoras.csv")
+quem_contribui %>% 
+  dplyr::mutate(link = glue::glue("[{logins}]({url})")) %>% 
+  dplyr::filter(logins !=  "actions-user") %>% 
+  dplyr::select(link) %>% 
+  dplyr::summarise(texto = knitr::combine_words(link, and = " e ")) %>% 
+  dplyr::pull(texto)
+```
+
 ## Sumário
 
 ```{r results="asis"}
