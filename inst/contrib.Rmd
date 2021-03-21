@@ -5,6 +5,9 @@ description: |
 output: distill::distill_article
 ---
 
+Caso queira contribuir também, [confira essa página](como_contribuir.html)!
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```

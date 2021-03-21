@@ -33,7 +33,7 @@ Essa lista está em construção, portanto se você conhecer algum material inte
 
 Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https://github.com/beatrizmilz/materiais_estudo_R/blob/master/disciplinas.md).
 
-Caso queira contribuir com algum material, faça uma contribuição via Pull Request no arquivo [neste link](https://github.com/beatrizmilz/materiais_estudo_R/blob/master/inst/dados.csv).
+> Caso queira contribuir com essa lista, [confira essa página](como_contribuir.html)!
 
 Alguns materiais que estavam no repositório original não foram adicionados nessa lista ainda por estarem em Inglês. Caso queira consultá-los, [clique aqui](https://github.com/beatrizmilz/materiais_estudo_R).
 
