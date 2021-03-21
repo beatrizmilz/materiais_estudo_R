@@ -9,6 +9,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, out.width = "100%", fig.align = "center")
+library(magrittr, include.only = "%>%")
 ```
 
 ```{r metathis, echo=FALSE}
@@ -115,7 +116,9 @@ Você acha o material interessante? É muito útil compartilhar com pessoas que 
 
 <a href="https://twitter.com/BeaMilz/status/1373451377813417987"> 
 ```{r tweet, echo=FALSE}
-tweetrmd::tweet_screenshot("https://twitter.com/BeaMilz/status/1373451377813417987")
+# tweet <- tweetrmd::tweet_screenshot("https://twitter.com/BeaMilz/status/1373451377813417987", file = "img/tweet.png")
+
+knitr::include_graphics("img/tweet.png")
 ```
 </a>
 
