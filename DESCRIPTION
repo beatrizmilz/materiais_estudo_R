@@ -24,4 +24,5 @@ Imports:
     metathis,
     readr,
     rmarkdown,
-    stringr
+    stringr,
+    tidyr
