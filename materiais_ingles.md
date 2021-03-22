@@ -14,12 +14,21 @@ Abaixo estão os materiais em inglês, que não foram movidos para o site acima 
 - Link: http://r4ds.had.co.nz/
 - Conteúdo: diversas funções do pacote Tidyverse, etc.
 
+
 ## - Livro: R Notes for Professionals
 - Livro disponibilizado gratuitamente em PDF, mas você pode contribuir com um café!; 
 - Autor: Goalkicker.com
 - Link: https://goalkicker.com/RBook/
 - Conteúdo: básico do R e RStudio, Pacotes, objetos, tipos de dados, funções, etc.
 - 
+
+## - Livro: JavaScript for R
+- Livro disponibilizado gratuitamente em bookdown;
+- Autor: John Coene
+- Link: https://book.javascript-for-r.com/
+- Conteúdo: Integração de bibliotecas JavaScript externas para trabalho de ciência de dados.
+
+
 ## - Material do curso "Introduction to R for journalists"
 - O curso já aconteceu, mas o material está disponível.
 - Link: https://journalismcourses.org/intro-r.html
