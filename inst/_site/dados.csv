@@ -44,8 +44,8 @@ Rcpp - A interface entre R e C++,https://storopoli.io/Rcpp/,Tutoriais,Programaç
 Introdução à Linguagem R: seus fundamentos e sua prática,https://pedro-faria.netlify.app/pt/publication/book/introducao_linguagem_r/,Livros,Data Science/Programação,Pedro Duarte Faria e João Pedro Figueira Amorim Parga,Português
 Pedro Duarte Faria,https://pedro-faria.netlify.app/pt/#posts,Blogs,Programação em r,Pedro Duarte Faria,Português
 Curso Básico de R,https://pt.slideshare.net/RobertodePinho/curso-bsico-de-r,Apresentações,Programação em R,Roberto de Pinho,Português
-Fórum de dúvidas - Discourse da Curso-R,https://discourse.curso-r.com/,Dúvidas,Temas diversos,Curso-R,Português
-Grupo de Telegram R Brasil,https://t.me/rbrasiloficial,Dúvidas,Temas diversos,NA,Português
+Fórum de dúvidas - Discourse da Curso-R,https://discourse.curso-r.com/,Comunidades,Temas diversos,Curso-R,Português
+Grupo de Telegram R Brasil,https://t.me/rbrasiloficial,Comunidades,Temas diversos,NA,Português
 Fernanda Kelly,https://www.fernandakellyrs.com/blog,Blogs,Ciência de Dados/Data Science,Fernanda Kelly,Português
 Beatriz Milz,https://www.twitch.tv/beamilz,Canais na Twitch,Temas diversos,Beatriz Milz,Português
 Athos Damiani,https://www.twitch.tv/athos_damiani,Canais na Twitch,Temas diversos,Athos Damiani,Português
@@ -69,3 +69,6 @@ Estatidados no Youtube,https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw,
 Estatidados no Telegram,https://t.me/estatidados,Comunidades,Ciência de Dados/Data Science,Comunidade de estatística e ciência de dados,Português
 Casa da Pesquisa Operacional (CPO),https://www.casadapesquisaoperacional.com/,Comunidades,Ciência de Dados/Data Science,Comunidade de Pesquisa Operacional,Português
 Casa da Pesquisa Operacional (CPO),https://www.youtube.com/channel/UCC6BPEbuppHBR4Mk6fhW7fQ,Canais no Youtube,Ciência de Dados/Data Science,Comunidade de Pesquisa Operacional,Português
+Pacote geobr - Shapefiles do Brasil,https://ipeagit.github.io/geobr/,Pacotes da comunidade,Bases de dados,IPEA,Inglês
+Pacote mananciais RMSP,https://beatrizmilz.github.io/mananciais/,Pacotes da comunidade,Base de dados,Beatriz Milz,Português
+Pacote Ibamam,https://cccneto.github.io/Ibamam/README.port.html,Pacotes da comunidade,Bases de Dados,Claudiano Neto,Português
