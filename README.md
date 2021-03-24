@@ -20,14 +20,14 @@ estão os materiais em inglês, que não foram movidos para o site acima
 
 [beatrizmilz](https://github.com/beatrizmilz),
 [storopoli](https://github.com/storopoli),
+[Erick-Araujo](https://github.com/Erick-Araujo),
 [liznascimento](https://github.com/liznascimento),
 [diegogaldinof](https://github.com/diegogaldinof),
-[Erick-Araujo](https://github.com/Erick-Araujo),
 [jtrecenti](https://github.com/jtrecenti),
 [adelmofilho](https://github.com/adelmofilho),
+[gabrielvazdemelo](https://github.com/gabrielvazdemelo),
 [pedropark99](https://github.com/pedropark99),
 [vanderleidebastiani](https://github.com/vanderleidebastiani),
-[beamilz-ensino](https://github.com/beamilz-ensino),
 [hsvab](https://github.com/hsvab), e
 [FeFortti](https://github.com/FeFortti)
 
@@ -101,6 +101,7 @@ estão os materiais em inglês, que não foram movidos para o site acima
 | [Introdução à Linguagem R: seus fundamentos e sua prática](https://pedro-faria.netlify.app/pt/publication/book/introducao_linguagem_r/)                       | Pedro Duarte Faria e João Pedro Figueira Amorim Parga | Livros                                        | Data Science/Programação                |
 | [Bioestatística Básica](http://www.lampada.uerj.br/arquivosdb/_book/bioestatisticaBasica.html)                                                                | Sergio Miranda Freire                                 | Livros                                        | Bioestatística                          |
 | [Introdução ao R](http://www.lampada.uerj.br/arquivosdb/_book2/introducaoR.html)                                                                              | Sergio Miranda Freire                                 | Livros                                        | Programação em R                        |
+| [Zen do R](https://curso-r.github.io/zen-do-r/index.html)                                                                                                     | Curso-R                                               | Livros                                        | Programação em R                        |
 | [Pacote Dados - Bases traduzidas](https://cienciadedatos.github.io/dados/)                                                                                    | NA                                                    | Pacotes da comunidade                         | Bases de dados                          |
 | [Pacote geobr - Shapefiles do Brasil](https://ipeagit.github.io/geobr/)                                                                                       | IPEA                                                  | Pacotes da comunidade                         | Bases de dados                          |
 | [Pacote mananciais RMSP](https://beatrizmilz.github.io/mananciais/)                                                                                           | Beatriz Milz                                          | Pacotes da comunidade                         | Base de dados                           |
