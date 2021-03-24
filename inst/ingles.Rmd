@@ -1,8 +1,8 @@
 ---
 title: "Materiais sobre R"
 description: |
-   Materiais em Português para estudar R! <br> Lista criada em agosto de 2018, e organizada por [Beatriz Milz](https://beatrizmilz.com/about.html) e [várias pessoas da comunidade](https://materiais-estudo-r.netlify.app/contrib.html). <br> Ilustração por [Allison Horst](https://github.com/allisonhorst/stats-illustrations)!
-site: distill::distill_website
+   Materiais em Inglês para estudar R! <br> Lista criada em agosto de 2018, e organizada por [Beatriz Milz](https://beatrizmilz.com/about.html) e [várias pessoas da comunidade](https://materiais-estudo-r.netlify.app/contrib.html). <br> Ilustração por [Allison Horst](https://github.com/allisonhorst/stats-illustrations)!
+output: distill::distill_article
 ---
 ```{r metathis, echo=FALSE}
 library(metathis)
@@ -27,17 +27,14 @@ meta() %>%
 ```
 Olá! Boas vindas.
 
-O objetivo dessa lista é facilitar o acesso à materiais de estudo de R, de preferência gratuitos e **em português**. 
+O objetivo dessa lista é facilitar o acesso à materiais de estudo de R, de preferência gratuitos e **em Inglês**. 
 
 Essa lista está em construção, portanto se você conhecer algum material interessante, sinta-se a vontade para contribuir.
-
 > Caso queira contribuir com essa lista, [confira essa página](como_contribuir.html)!
-
 
 Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https://github.com/beatrizmilz/materiais_estudo_R/blob/master/disciplinas.md).
 
 
-Alguns materiais que estavam no repositório original não foram adicionados nessa lista ainda por estarem em Inglês. Caso queira consultá-los, [clique aqui](https://github.com/beatrizmilz/materiais_estudo_R).
 
 <center>
 <!-- Place this tag where you want the button to render. -->
@@ -60,7 +57,7 @@ library(magrittr, include.only = "%>%")
 data_raw <- readr::read_csv("dados.csv")
 
 data <- data_raw %>% 
-  dplyr::filter(idioma == "Português") %>% 
+  dplyr::filter(idioma == "Inglês") %>% 
   tidyr::drop_na(url) %>% 
  dplyr::arrange(titulo)
 ```

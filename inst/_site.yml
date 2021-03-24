@@ -11,6 +11,14 @@ navbar:
       href: como_contribuir.html
     - text: Pessoas contribuidoras
       href: contrib.html
+    - text: Idiomas
+      menu:
+        - text: Português
+          href: index.html
+        - text: Espanhol
+          href: espanhol.html
+        - text: Inglês
+          href: ingles.html
   right:
 
     - icon: fab fa-github
