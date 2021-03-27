@@ -1,0 +1,106 @@
+---
+title: "Materiais sobre R"
+description: |
+   Materiais em `r {params$idioma}` para estudar R! <br> Lista criada em agosto de 2018, e organizada por [Beatriz Milz](https://beatrizmilz.com/about.html) e [várias pessoas da comunidade](https://materiais-estudo-r.netlify.app/contrib.html). <br> Ilustração por [Allison Horst](https://github.com/allisonhorst/stats-illustrations)!
+params:
+  idioma: "Português"
+output:
+  distill::distill_article:
+    toc: TRUE
+    toc_float: TRUE
+    toc_depth: 3
+---
+
+```{r metathis, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_name("github-repo" = "beatrizmilz/materiais_estudo_R") %>% 
+  meta_social(
+    title = glue::glue("Materiais em {params$idioma} para estudar R!"),
+    description = paste(
+      "Alguns materiais para estudo de R.",
+      "Organizado por Beatriz Milz e várias pessoas da comunidade."
+    ),
+    url = "https://beatrizmilz.github.io/materiais_estudo_R/",
+    image = "https://materiais-estudo-r.netlify.app/img/share-card.png",
+    image_alt = paste(
+      "Página sobre materiais para estudo de R"
+    ),
+    og_type = "website",
+    og_author = "Beatriz Milz",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@beamilz"
+  )
+
+```
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+library(magrittr, include.only = "%>%")
+```
+
+```{r}
+data_raw <- readr::read_csv("dados.csv")
+
+data <- data_raw %>% 
+  dplyr::filter(idioma == params$idioma) %>% 
+  tidyr::drop_na(url) %>% 
+ dplyr::arrange(titulo) %>% 
+  dplyr::mutate(categoria = forcats::fct_relevel(categoria, c("Livros", "Eventos", "Pacotes da comunidade", "Tutoriais", "Apresentações")))
+```
+
+## Sumário
+```{r results="asis"}
+secoes <- data %>% 
+  dplyr::distinct(categoria) %>% 
+  dplyr::arrange(categoria) %>% 
+  dplyr::pull(categoria)
+
+n_repeticoes <- length(secoes)
+
+secoes_link <- stringr::str_to_lower(secoes) %>% 
+  stringr::str_replace_all(pattern = " ", replacement = "-") %>% 
+  stringr::str_replace_all(pattern = "/", replacement = "-")
+
+for (i in 1:n_repeticoes) {
+  cat(glue::glue("- [{secoes[i]}](index.html#{secoes_link[i]})   \n \n"))
+}
+```
+
+```{r results="asis"}
+for (i in 1:n_repeticoes) {
+  secao <- secoes[i]
+  cat("##", as.character(secao), "\n\n")
+  tabela <- data %>% 
+  dplyr::filter(categoria == secao) %>% 
+  # dplyr::mutate(link = glue::glue("<a href='{url}' target=_blank>{titulo}</a>")) %>% 
+  dplyr::mutate(link = glue::glue("[{titulo}]({url})")) %>% 
+  dplyr::relocate(link, .before = 1) %>% 
+  dplyr::select(-titulo, -url, -categoria, -idioma) %>% 
+  dplyr::relocate(autoria, .after = link) %>% 
+    # knitr::kable(format = "html", col.names = c("Nome/Link", "Autoria", "Tema"))  %>%
+    kableExtra::kbl(col.names = c("Nome/Link", "Autoria", "Tema")) %>% 
+    kableExtra::kable_material(c("striped", "hover", "responsive")) %>% 
+      kableExtra::kable_styling(bootstrap_options = "striped", full_width = TRUE)
+
+  cat(tabela, "\n\n")
+}
+```
+
+
+<center>
+<!-- Place this tag where you want the button to render. -->
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/beatrizmilz/materiais_estudo_R" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star beatrizmilz/materiais_estudo_R on GitHub">Favorite também o repositório no GitHub!</a>
+</center>
+
+
+Última atualização em: `r format(Sys.Date(), "%d/%m/%Y")`
+
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>

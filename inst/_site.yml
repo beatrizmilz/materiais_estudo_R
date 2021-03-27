@@ -14,7 +14,7 @@ navbar:
     - text: Idiomas
       menu:
         - text: Português
-          href: index.html
+          href: portugues.html
         - text: Espanhol
           href: espanhol.html
         - text: Inglês

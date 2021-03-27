@@ -18,3 +18,4 @@ gerar_lista_contrib <- function(){
     readr::write_csv2(file = "inst/lista_de_pessoas_contribuidoras.csv")
 }
 
+gerar_lista_contrib()
