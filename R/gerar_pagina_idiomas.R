@@ -1,3 +1,11 @@
+#' Title
+#'
+#' @return
+#' @export
+#'
+#' @examples
+gerar_pagina_idiomas <- function(){
+
 library(magrittr, include.only = "%>%")
 
 data_raw <- readr::read_csv("inst/dados.csv")
@@ -25,4 +33,5 @@ for (i in 1:length(idiomas)) {
      envir = parent.frame()
   )
 
+}
 }

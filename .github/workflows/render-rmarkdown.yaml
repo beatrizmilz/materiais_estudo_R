@@ -27,7 +27,7 @@ jobs:
         run: |
           Rscript -e '# materiais.estudo.R::gerar_lista_contrib() #Não tá rolando pois precisa autenticar'
           Rscript -e 'rmarkdown::render_site("inst/")'
-          Rscript -e 'source("inst/gerar_pagina_idiomas.R", encoding = "UTF-8")'
+          Rscript -e 'materiais.estudo.R::gerar_pagina_idiomas()'
           Rscript -e 'rmarkdown::render("README.Rmd")'
       - name: Commit results
         run: |

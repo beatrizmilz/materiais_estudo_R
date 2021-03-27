@@ -2,4 +2,5 @@
 
 export("%>%")
 export(gerar_lista_contrib)
+export(gerar_pagina_idiomas)
 importFrom(magrittr,"%>%")
