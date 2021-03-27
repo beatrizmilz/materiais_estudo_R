@@ -10,6 +10,17 @@ output:
     toc_float: TRUE
     toc_depth: 3
 ---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+library(magrittr, include.only = "%>%")
+
+idioma_minusculo <- params$idioma %>% 
+    abjutils::rm_accent() %>%
+    stringr::str_to_lower()
+```
 
 ```{r metathis, echo=FALSE}
 library(metathis)
@@ -22,7 +33,7 @@ meta() %>%
       "Organizado por Beatriz Milz e várias pessoas da comunidade."
     ),
     url = "https://beatrizmilz.github.io/materiais_estudo_R/",
-    image = "https://materiais-estudo-r.netlify.app/img/share-card.png",
+    image = glue::glue("https://materiais-estudo-r.netlify.app/img/share-card_{idioma_minusculo}.png"),
     image_alt = paste(
       "Página sobre materiais para estudo de R"
     ),
@@ -35,13 +46,7 @@ meta() %>%
 ```
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-library(magrittr, include.only = "%>%")
-```
 
 ```{r}
 data_raw <- readr::read_csv("dados.csv")
