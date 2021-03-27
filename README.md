@@ -21,11 +21,11 @@ estão os materiais em inglês, que não foram movidos para o site acima
 [beatrizmilz](https://github.com/beatrizmilz),
 [storopoli](https://github.com/storopoli),
 [Erick-Araujo](https://github.com/Erick-Araujo),
+[gabrielvazdemelo](https://github.com/gabrielvazdemelo),
 [liznascimento](https://github.com/liznascimento),
 [diegogaldinof](https://github.com/diegogaldinof),
 [jtrecenti](https://github.com/jtrecenti),
 [adelmofilho](https://github.com/adelmofilho),
-[gabrielvazdemelo](https://github.com/gabrielvazdemelo),
 [pedropark99](https://github.com/pedropark99),
 [vanderleidebastiani](https://github.com/vanderleidebastiani),
 [hsvab](https://github.com/hsvab), e
@@ -94,6 +94,7 @@ estão os materiais em inglês, que não foram movidos para o site acima
 | [Latin-R - Conferência Latino-Americana sobre o Uso de R em P\&D](https://latin-r.com/pt)                                                                     | Latin-R                                                           | Eventos                                       | NA                                      |
 | [Latin-R - Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo](https://latin-r.com/)                                                    | Latin-R                                                           | Eventos                                       | NA                                      |
 | [Latin-R - Latinamerican Conference About the Use of R in R\&D](https://latin-r.com/en)                                                                       | Latin-R                                                           | Eventos                                       | NA                                      |
+| [useR\! 2021 - The R Conference](https://user2021.r-project.org/)                                                                                             | R Foundation                                                      | Eventos                                       | Programação em R                        |
 | [Ciência de Dados em R](https://livro.curso-r.com/)                                                                                                           | Curso-R                                                           | Livros                                        | Ciência de Dados/Data Science           |
 | [Ciência de Dados com R](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r)                                                | IBPAD                                                             | Livros                                        | Ciência de Dados/Data Science           |
 | [Aprendizado de máquina: uma abordagem estatística](http://www.rizbicki.ufscar.br/ame/)                                                                       | Rafael Izbicki e Tiago Mendonça                                   | Livros                                        | Aprendizado de máquina/Machine Learning |
