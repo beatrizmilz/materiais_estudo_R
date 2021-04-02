@@ -39,6 +39,24 @@ Achou a lista interessante e gostaria de contribuir com o material de alguma for
 E se quiser saber quem são as pessoas que contribuem com essa lista, [clique aqui](contrib.html)!
 
 
+## Código de conduta
+
+Todas as contribuições devem seguir o [código de conduta da R-Ladies](https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#portuguese). Este código de conduta aplica-se a todos os espaços relacionados à este projeto, como GitHub, Twitter, materiais disponíveis, e outros.
+
+
+
+## Regras de contribuição
+
+Contribuições de materiais para estudar R são muito bem vindas. Porém, isso não significa que todas as contribuições serão aprovadas. 
+
+Pedimos que não submeta:
+
+- Materiais produzidos e/ou enviados por indivíduos ou empresas que estejam envolvidos em situações em desacordo com o código de conduta (veja o [exemplo](https://blog.rladies.org/post/2019-04-08-statement-about-datacamp/));
+
+- Materiais repetidos;
+
+- Materiais que não tenha o foco no ensino de R (ou não utilizem R, como no caso dos blogs).
+
 ## Sugerindo materiais para a lista
 
 ### Via GitHub
