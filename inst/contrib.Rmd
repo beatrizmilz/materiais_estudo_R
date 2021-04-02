@@ -44,7 +44,7 @@ quem_contribui <- readr::read_csv2("lista_de_pessoas_contribuidoras.csv")
 <center>
 
 <a href='https://github.com/beatrizmilz'>    
-  Beatriz Milz (mantenedora do projeto)
+  Beatriz Milz (mantenedora do projeto) <br>
 <img src="https://avatars.githubusercontent.com/u/42153618?v=4" width="200">
 </a>
 <br><br>
