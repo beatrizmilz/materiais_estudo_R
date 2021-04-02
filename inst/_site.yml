@@ -11,14 +11,16 @@ navbar:
       href: como_contribuir.html
     - text: Pessoas contribuidoras
       href: contrib.html
-    - text: Idiomas
+    - text: Materiais
       menu:
-        - text: Português
+        - text: Em Português
           href: portugues.html
-        - text: Espanhol
+        - text: Em Espanhol
           href: espanhol.html
-        - text: Inglês
+        - text: Em Inglês
           href: ingles.html
+    - text: Eventos sobre R
+      href: eventos.html
   right:
 
     - icon: fab fa-github

@@ -39,11 +39,21 @@ library(magrittr, include.only = "%>%")
 quem_contribui <- readr::read_csv2("lista_de_pessoas_contribuidoras.csv")
 ```
 
+
+
 <center>
+
+<a href='https://github.com/beatrizmilz'>    
+  Beatriz Milz (mantenedora do projeto)
+<img src="https://avatars.githubusercontent.com/u/42153618?v=4" width="200">
+</a>
+<br><br>
+
 ```{r echo=FALSE, results='asis'}
 pessoas_contribuidoras <- quem_contribui %>% 
+  dplyr::arrange(logins) %>% 
   dplyr::mutate(link = glue::glue("[{logins}]({url})")) %>% 
-  dplyr::filter(logins !=  "actions-user") 
+  dplyr::filter(!logins %in% c("actions-user", "beatrizmilz")) 
 
 
 for (i in 1:nrow(pessoas_contribuidoras)) {

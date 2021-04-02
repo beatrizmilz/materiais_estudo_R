@@ -8,7 +8,9 @@ links:
     url: "espanhol.html"
   - label: Inglês
     url: "ingles.html"
-  - label: GitHub
+  - label: Eventos
+    url: "eventos.html"
+  - label: Código no GitHub
     url: "https://github.com/beatrizmilz/materiais_estudo_R"
 output:
   postcards::trestles
