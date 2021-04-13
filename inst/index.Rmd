@@ -53,19 +53,18 @@ Ilustração por [Allison Horst](https://github.com/allisonhorst/stats-illustrat
 
 
 
+**Materiais adicionados recentemente:**
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(magrittr, include.only = "%>%")
 data_raw <- readr::read_csv("dados.csv")
 
 data_raw %>%
-  dplyr::count(idioma, sort = TRUE) %>% 
-  tibble::add_row(idioma = "Total", n = sum(.$n)) %>% 
-  gt::gt() %>% 
-  gt::cols_label(
-   n = "Número de materiais",
-   idioma = "Idiomas"
-  )
+  dplyr::slice(dplyr::n():(dplyr::n()-5)) %>% 
+  dplyr::mutate(link = glue::glue("[{titulo}]({url})")) %>% 
+  dplyr::select(link, categoria) %>% 
+  knitr::kable(col.names = c("Material", "Categoria"))
+
 
 ```
 
