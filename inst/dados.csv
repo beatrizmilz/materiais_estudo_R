@@ -62,23 +62,23 @@ Hope Clouds Observation,https://blog.adelmofilho.com/,Blogs,Ciência de Dados,Ad
 Caio Lente,https://lente.dev/,Blogs,Programação em R,Caio Lente,Português
 Blog da R-Ladies GYN,https://www.rladiesgyn.com/blog,Blogs,Comunidades,R-Ladies GYN,Português
 Materiais da Curso-R,https://curso-r.com/material/,Tutoriais,Ciência de Dados/Data Science,Curso-R,Português
-Pacote Dados - Bases traduzidas,https://cienciadedatos.github.io/dados/,Pacotes da comunidade,Bases de dados,[Comunidade](https://cienciadedatos.github.io/dados/authors.html),Português
+Pacote {dados} - Bases traduzidas,https://cienciadedatos.github.io/dados/,Pacotes da comunidade,Bases de dados,[Comunidade](https://cienciadedatos.github.io/dados/authors.html),Português
 Estatidados,http://estatidados.com.br/,Comunidades,Ciência de Dados/Data Science,Comunidade de estatística e ciência de dados,Português
-Pacote geobr - Shapefiles do Brasil,https://ipeagit.github.io/geobr/,Pacotes da comunidade,Bases de dados,IPEA,Português
+Pacote {geobr} - Shapefiles do Brasil,https://ipeagit.github.io/geobr/,Pacotes da comunidade,Bases de dados,IPEA,Português
 Pacote mananciais RMSP,https://beatrizmilz.github.io/mananciais/,Pacotes da comunidade,Base de dados,Beatriz Milz,Português
-Pacote Ibamam,https://cccneto.github.io/Ibamam/README.port.html,Pacotes da comunidade,Bases de Dados,Claudiano Neto,Português
+Pacote {Ibamam},https://cccneto.github.io/Ibamam/README.port.html,Pacotes da comunidade,Bases de Dados,Claudiano Neto et al.,Português
 Pacote deflateBR,https://github.com/meirelesff/deflateBR,Pacotes da comunidade,Base de dados,Fernando Meireles,Português
 Grupo de Telegram Omega Data Science,https://t.me/joinchat/GsGpByg2aJ6b1fsR,Comunidades,Temas diversos, Omega Data Science,Português
 Bioestatística Básica,http://www.lampada.uerj.br/arquivosdb/_book/bioestatisticaBasica.html,Livros,Bioestatística,Sergio Miranda Freire,Português
 Introdução ao R,http://www.lampada.uerj.br/arquivosdb/_book2/introducaoR.html,Livros,Programação em R,Sergio Miranda Freire,Português
 Materiais da R-Ladies GYN,https://github.com/R-LadiesGYN/README,Apresentações,Temas diversos,R-Ladies GYN,Português
 Zen do R,https://curso-r.github.io/zen-do-r/index.html,Livros,Programação em R,Curso-R,Português
-Pacote genderBR,https://github.com/meirelesff/genderBR,Pacotes da comunidade,Base de dados,Fernando Meireles,Português
+Pacote {genderBR},https://github.com/meirelesff/genderBR,Pacotes da comunidade,Base de dados,Fernando Meireles,Português
 R para Ciencia de Datos,https://es.r4ds.hadley.nz/,Livros,Programação em R,Hadley Wickham e Garrett Grolemund,Espanhol
 Análisis espacial con R: Usa R como un Sistema de Información Geográfica,http://eujournal.org/files/journals/1/books/JeanFrancoisMas.pdf,Livros,Programação em R,Jean-François Mas,Espanhol
 Ciência de Dados com R e PostgreSQL,https://rpg.consudata.com.br/,Blogs,PostgreSQL,José de Jesus Filho,Português
 Fernanda Peres,https://fernandafperes.com.br/blog/,Blogs,Estatística,Fernanda Peres,Português
-Pacote Datos - Bases traduzidas,https://cienciadedatos.github.io/datos/,Pacotes da comunidade,Bases de dados,[Comunidade](https://cienciadedatos.github.io/datos/authors.html),Espanhol
+Pacote {datos} - Bases traduzidas,https://cienciadedatos.github.io/datos/,Pacotes da comunidade,Bases de dados,[Comunidade](https://cienciadedatos.github.io/datos/authors.html),Espanhol
 Estatística Aplicada,https://www.instagram.com/estatisticaaplicada/,Perfis no Instagram,Estatística,Fernanda Peres,Português
 Livros gratuitos feitos com o pacote Bookdown,https://bookdown.org/,Livros,Programação em R,Bookdown,Inglês
 Aprendiendo {learnr},https://learning-learnr.netlify.app/,Tutoriais,Tutoriais interativos com R,Yanina Bellini Saibene,Espanhol
@@ -94,7 +94,8 @@ datamares & dreamscapes,https://datamares.netlify.app/,Blogs,Programação em R,
 Maxwel Coura Oliveira,https://maxweeds.rbind.io/pt/post/,Blogs,Plantas Daninhas,Maxwel Coura Oliveira,Português
 Ômega Data Science,https://www.youtube.com/channel/UC8I5vCEW-JN90WREUPUMYOQ,Canais no Youtube,Data Science,Ômega Data Science,Português
 Estatística básica,http://www.leg.ufpr.br/~paulojus/estbas/,Disciplinas com materiais disponíveis,Estatística,UFPR,Português
-labestData - Biblioteca de Dados para Aprendizado de Estatística,https://github.com/pet-estatistica/labestData,Pacotes da comunidade,Bases de dados,PET Estatística UFPR,Português
+Pacote {labestData} - Biblioteca de Dados para Aprendizado de Estatística,https://github.com/pet-estatistica/labestData,Pacotes da comunidade,Bases de dados,PET Estatística UFPR,Português
 Blog do PET Estatística UFPR,https://pet.leg.ufpr.br/,Blogs,Estatística,PET Estatística UFPR,Português
-Pacote basedosdados,https://github.com/basedosdados/mais/#usando-em-r,Pacotes da comunidade,Bases de dados,[Base dos Dados](https://basedosdados.github.io/mais/),Português
+Pacote {basedosdados},https://github.com/basedosdados/mais/#usando-em-r,Pacotes da comunidade,Bases de dados,[Base dos Dados](https://basedosdados.github.io/mais/),Português
 Fundamentos de Estatística para Ciência de Dados,http://filipezabala.com/fdepcdd/,Livros, Estatítstica,Filipe J. Zabala,Português
+Pacote {siconvr},https://fmeireles.com/siconvr/,Pacotes da comunidade,Fernando Meireles e Marcus Vinícius de Sá Torres,Inglês
