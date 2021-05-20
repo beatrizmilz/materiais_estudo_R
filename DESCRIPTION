@@ -16,9 +16,11 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
     abjutils,
+    allcontributors,
     distill,
     dplyr,
     forcats,
+    fs,
     glue,
     gt,
     kableExtra,
@@ -29,6 +31,8 @@ Imports:
     readr,
     rmarkdown,
     stringr,
-    tidyr
-Remotes:  
-    seankross/postcards
+    tidyr,
+    webshot2 (>= 0.0.0.9000)
+Remotes: 
+    seankross/postcards,
+    rstudio/webshot2
