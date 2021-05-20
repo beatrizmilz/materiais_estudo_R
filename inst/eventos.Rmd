@@ -37,12 +37,6 @@ meta() %>%
 ```
 
 ```{r}
-
-```
-
-
-
-```{r}
 data_raw <- readr::read_csv("eventos.csv")
 
 data <- data_raw %>% 
