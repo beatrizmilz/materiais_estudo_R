@@ -59,7 +59,8 @@ atualizar_share_card <- function(pagina = "todas",
       file = caminhos_salvar[i],
       vheight = 1000 * 0.7,
       vwidth =  1910 * 0.7,
-      cliprect = "viewport"
+      cliprect = "viewport",
+      delay = 3
 
     )
 
