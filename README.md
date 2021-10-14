@@ -19,8 +19,10 @@ issue](https://github.com/beatrizmilz/materiais_estudo_R/issues/new/choose).
 [gabrielvazdemelo](https://github.com/gabrielvazdemelo),
 [liznascimento](https://github.com/liznascimento),
 [diegogaldinof](https://github.com/diegogaldinof),
+[azeloc](https://github.com/azeloc),
 [jtrecenti](https://github.com/jtrecenti),
 [adelmofilho](https://github.com/adelmofilho),
+[maxwelco](https://github.com/maxwelco),
 [pedropark99](https://github.com/pedropark99),
 [vanderleidebastiani](https://github.com/vanderleidebastiani),
 [hsvab](https://github.com/hsvab), e
