@@ -56,7 +56,7 @@ code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { color: #20794d; } /* Attribute */
+code span.at { } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
 code span.cf { color: #007ba5; } /* ControlFlow */
@@ -77,13 +77,14 @@ code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
 code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
-code span.sc { color: #20794d; } /* SpecialChar */
+code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
 code span.st { color: #20794d; } /* String */
 code span.va { color: #111111; } /* Variable */
 code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
+
 
   <!--radix_placeholder_meta_tags-->
   <title>Materiais de estudo sobre R: Eventos sobre R</title>
@@ -456,7 +457,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   </style>
   
-  <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
   <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
   <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
@@ -1863,7 +1864,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
+        var refs = $(this).attr('data-cites').split(" ");
+        var refHtml = refs.map(function(ref) {
+          return "<p>" + $('#ref-' + ref).html() + "</p>";
+        }).join("\n");
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -2375,7 +2379,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <meta name="twitter:title" content="Eventos sobre R!"/>
   <meta name="twitter:description" content="Eventos sobre R. Organizado por Beatriz Milz e várias pessoas da comunidade."/>
   <meta name="twitter:url" content="https://beatrizmilz.github.io/materiais_estudo_R/"/>
-  <meta name="twitter:image:src" content="https://materiais-estudo-r.netlify.app/img/share-card_eventos.png"/>
+  <meta name="twitter:image" content="https://materiais-estudo-r.netlify.app/img/share-card_eventos.png"/>
   <meta name="twitter:image:alt" content="Página sobre materiais para estudo de R"/>
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:creator" content="@beamilz"/>
@@ -2475,7 +2479,7 @@ Materiais
 Seminário Internacional de Estatística com R (SER)
 </h5>
 <p class="card-text">
-Local: Online <br> Idioma: Trilingue <br> Data: 26 e 27 de maio de 2021
+Local: Online <br> Idioma: Trilingue <br> Data: 9 e 10 de junho de 2021 <br> Chamada para trabalhos: Encerrada
 </p>
 <p><a href="http://ser.uff.br/" class="btn btn-secondary" target="_blank">Acesse a página do evento</a></p>
 </div>
@@ -2490,14 +2494,28 @@ Local: Online <br> Idioma: Trilingue <br> Data: 26 e 27 de maio de 2021
 useR! 2021 - The R Conference
 </h5>
 <p class="card-text">
-Local: Online <br> Idioma: Inglês com conteúdos em outros idiomas <br> Data: 5 à 9 de julho de 2021
+Local: Online <br> Idioma: Inglês com conteúdos em outros idiomas <br> Data: 5 à 9 de julho de 2021 <br> Chamada para trabalhos: Encerrada
 </p>
 <p><a href="https://user2021.r-project.org/" class="btn btn-secondary" target="_blank">Acesse a página do evento</a></p>
 </div>
 </div>
 <br> <br>
 </center>
-<h2 id="eventos-passados">Eventos passados</h2>
+<center>
+<div class="card" style="width: 50rem;">
+<img src="https://materiais-estudo-r.netlify.app/img/eventos/share-card_coda.png" class="card-img-top" alt="Print screen do site do evento CODA BR -">
+<div class="card-body">
+<h5 class="card-title">
+CODA BR -
+</h5>
+<p class="card-text">
+Local: Online <br> Idioma: Português <br> Data: 8 à 13 de novembro <br> Chamada para trabalhos: Até <a href="https://airtable.com/shr0vpzb2GROOzcNh">30/06/2021</a>
+</p>
+<p><a href="https://escoladedados.org/coda2021/" class="btn btn-secondary" target="_blank">Acesse a página do evento</a></p>
+</div>
+</div>
+<br> <br>
+</center>
 <center>
 <div class="card" style="width: 50rem;">
 <img src="https://materiais-estudo-r.netlify.app/img/eventos/share-card_latinr.png" class="card-img-top" alt="Print screen do site do evento Latin-R - Conferência Latino-Americana sobre o Uso de R em P&D">
@@ -2506,9 +2524,25 @@ Local: Online <br> Idioma: Inglês com conteúdos em outros idiomas <br> Data: 5
 Latin-R - Conferência Latino-Americana sobre o Uso de R em P&amp;D
 </h5>
 <p class="card-text">
-Local: Online <br> Idioma: Trilingue <br> Data: 2020
+Local: Online <br> Idioma: Trilingue <br> Data: 11 à 13 de novembro 2021 <br> Chamada para trabalhos: Até <a href="https://easychair.org/cfp/latinr2021">20/6/2021</a>
 </p>
 <p><a href="https://latin-r.com/pt" class="btn btn-secondary" target="_blank">Acesse a página do evento</a></p>
+</div>
+</div>
+<br> <br>
+</center>
+<h2 id="eventos-passados">Eventos passados</h2>
+<center>
+<div class="card" style="width: 50rem;">
+<img src="https://materiais-estudo-r.netlify.app/img/eventos/share-card_satrday.png" class="card-img-top" alt="Print screen do site do evento satrDay São Paulo 2019">
+<div class="card-body">
+<h5 class="card-title">
+satrDay São Paulo 2019
+</h5>
+<p class="card-text">
+Local: São Paulo - SP <br> Idioma: Português <br> Data: 2019 <br> Chamada para trabalhos: Encerrada
+</p>
+<p><a href="https://saopaulo2019.satrdays.org/" class="btn btn-secondary" target="_blank">Acesse a página do evento</a></p>
 </div>
 </div>
 <br> <br>
@@ -2521,24 +2555,9 @@ Local: Online <br> Idioma: Trilingue <br> Data: 2020
 R Day
 </h5>
 <p class="card-text">
-Local: Curitiba - PR <br> Idioma: Português <br> Data: 2019
+Local: Curitiba - PR <br> Idioma: Português <br> Data: 2019 <br> Chamada para trabalhos: Encerrada
 </p>
 <p><a href="http://rday.leg.ufpr.br/" class="btn btn-secondary" target="_blank">Acesse a página do evento</a></p>
-</div>
-</div>
-<br> <br>
-</center>
-<center>
-<div class="card" style="width: 50rem;">
-<img src="https://materiais-estudo-r.netlify.app/img/eventos/share-card_satrday.png" class="card-img-top" alt="Print screen do site do evento satrDay São Paulo 2019">
-<div class="card-body">
-<h5 class="card-title">
-satrDay São Paulo 2019
-</h5>
-<p class="card-text">
-Local: São Paulo - SP <br> Idioma: Português <br> Data: 2019
-</p>
-<p><a href="https://saopaulo2019.satrdays.org/" class="btn btn-secondary" target="_blank">Acesse a página do evento</a></p>
 </div>
 </div>
 <br> <br>
@@ -2549,7 +2568,7 @@ Local: São Paulo - SP <br> Idioma: Português <br> Data: 2019
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/beatrizmilz/materiais_estudo_R" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star beatrizmilz/materiais_estudo_R on GitHub">Favorite também o repositório no GitHub!</a>
 </center>
-<p>Última atualização em: 13/04/2021</p>
+<p>Última atualização em: 14/10/2021</p>
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <p><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous"></p>

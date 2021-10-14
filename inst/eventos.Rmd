@@ -36,9 +36,6 @@ meta() %>%
 
 ```
 
-
-
-
 ```{r}
 data_raw <- readr::read_csv("eventos.csv")
 
@@ -76,7 +73,8 @@ for (i in 1:n_repeticoes) {
   dplyr::filter(categoria == secao) %>% 
   dplyr::mutate(share_card = glue::glue(
     "https://materiais-estudo-r.netlify.app/img/eventos/share-card_{sigla_minuscula}.png"
-  )) 
+  )) %>% 
+    dplyr::arrange(data_inicio)
   
 
     cat(glue::glue('
@@ -85,7 +83,7 @@ for (i in 1:n_repeticoes) {
 <img src="{tabela$share_card}" class="card-img-top" alt="Print screen do site do evento {tabela$titulo}">
 <div class="card-body">
 <h5 class="card-title">{tabela$titulo}</h5>
-<p class="card-text">Local: {tabela$local} <br> Idioma: {tabela$idioma} <br> Data: {tabela$data} </p>
+<p class="card-text">Local: {tabela$local} <br> Idioma: {tabela$idioma} <br> Data: {tabela$data} <br> Chamada para trabalhos: {tabela$cfp} </p>
 <a href="{tabela$url}" class="btn btn-secondary" target="_blank">Acesse a página do evento</a>
 </div>
 </div><br> <br>
@@ -107,6 +105,8 @@ for (i in 1:n_repeticoes) {
 
 
 Última atualização em: `r format(Sys.Date(), "%d/%m/%Y")`
+
+
 
 
 <!-- Place this tag in your head or just before your close body tag. -->
