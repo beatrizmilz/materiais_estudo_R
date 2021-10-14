@@ -56,7 +56,7 @@ code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { color: #20794d; } /* Attribute */
+code span.at { } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
 code span.cf { color: #007ba5; } /* ControlFlow */
@@ -77,13 +77,14 @@ code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
 code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
-code span.sc { color: #20794d; } /* SpecialChar */
+code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
 code span.st { color: #20794d; } /* String */
 code span.va { color: #111111; } /* Variable */
 code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
+
 
   <!--radix_placeholder_meta_tags-->
   <title>Materiais de estudo sobre R: Como contribuir?</title>
@@ -453,7 +454,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   </style>
   
-  <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
   <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
   <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
@@ -1860,7 +1861,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
+        var refs = $(this).attr('data-cites').split(" ");
+        var refHtml = refs.map(function(ref) {
+          return "<p>" + $('#ref-' + ref).html() + "</p>";
+        }).join("\n");
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -2372,7 +2376,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <meta name="twitter:title" content="Materiais em Português para estudar R!"/>
   <meta name="twitter:description" content="Alguns materiais para estudo de R. Organizado por Beatriz Milz e várias pessoas da comunidade."/>
   <meta name="twitter:url" content="https://beatrizmilz.github.io/materiais_estudo_R/"/>
-  <meta name="twitter:image:src" content="https://materiais-estudo-r.netlify.app/img/share-card.png"/>
+  <meta name="twitter:image" content="https://materiais-estudo-r.netlify.app/img/share-card.png"/>
   <meta name="twitter:image:alt" content="Página sobre materiais para estudo de R"/>
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:creator" content="@beamilz"/>
