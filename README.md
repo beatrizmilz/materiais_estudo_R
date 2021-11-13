@@ -22,6 +22,7 @@ issue](https://github.com/beatrizmilz/materiais_estudo_R/issues/new/choose).
 [azeloc](https://github.com/azeloc),
 [jtrecenti](https://github.com/jtrecenti),
 [adelmofilho](https://github.com/adelmofilho),
+[brunomontezano](https://github.com/brunomontezano),
 [maxwelco](https://github.com/maxwelco),
 [pedropark99](https://github.com/pedropark99),
 [vanderleidebastiani](https://github.com/vanderleidebastiani),
