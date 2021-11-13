@@ -1,8 +1,9 @@
 sigla_minuscula,titulo,url,categoria,idioma,local,data,data_inicio,cfp
-latinr,Latin-R - Conferência Latino-Americana sobre o Uso de R em P&D,https://latin-r.com/pt,Eventos futuros,Trilingue,Online,11 à 13 de novembro 2021,2021-11-11,Encerrada
+latinr,Latin-R - Conferência Latino-Americana sobre o Uso de R em P&D,https://latin-r.com/pt,Eventos passados,Trilingue,Online,11 à 13 de novembro 2021,2021-11-11,Encerrada
 user,useR! 2021 - The R Conference,https://user2021.r-project.org/,Eventos passados,Inglês com conteúdos em outros idiomas,Online, 5 à 9 de julho de 2021,2021-07-05,Encerrada
 user-presencial,useR! 2022 - The R Conference,https://user2022.r-project.org/,Eventos futuros,Inglês com conteúdos em outros idiomas,EUA, 20 à 23 de junho de 2022,2022-06-20,Não iniciada
 satrday,satrDay São Paulo 2019,https://saopaulo2019.satrdays.org/,Eventos passados,Português,São Paulo - SP,2019,2019-11-30,Encerrada
 rday,R Day,http://rday.leg.ufpr.br/,Eventos passados,Português,Curitiba - PR,2021,2021-09-09,Encerrada
 ser,Seminário Internacional de Estatística com R (SER),http://ser.uff.br/,Eventos passados,Trilingue,Online,9 e 10 de junho de 2021,2021-06-09,Encerrada
-coda,CODA BR - ,https://escoladedados.org/coda2021/,Eventos futuros,Português,Online,8 à 13 de novembro,2021-11-08,Encerrada
+coda,CODA BR,https://escoladedados.org/coda2021/,Eventos passados,Português,Online,8 à 13 de novembro,2021-11-08,Encerrada
+rstudioconf,RStudio Conference,https://www.rstudio.com/conference/,Eventos passados,Inglês,Online,21 de janeiro,2021-01-21,Encerrada

@@ -11,4 +11,3 @@ materiais.estudo.R::gerar_lista_contrib()
 # atualizar share card das paginas dos eventos
 
 materiais.estudo.R::atualizar_share_card(sites_dos_eventos = TRUE)
-

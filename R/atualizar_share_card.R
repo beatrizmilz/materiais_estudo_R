@@ -7,7 +7,7 @@
 #'
 #' @examples
 atualizar_share_card <- function(pagina = "todas",
-                                 sites_dos_eventos = FALSE) {
+                                 sites_dos_eventos = FALSE, tempo_espera = 1) {
   library(magrittr, include.only = "%>%")
 
   if (pagina == "todas" & sites_dos_eventos == FALSE) {
@@ -60,7 +60,7 @@ atualizar_share_card <- function(pagina = "todas",
       vheight = 1000 * 0.7,
       vwidth =  1910 * 0.7,
       cliprect = "viewport",
-      delay = 3
+      delay = tempo_espera
 
     )
 
